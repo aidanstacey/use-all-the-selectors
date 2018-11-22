@@ -1,15 +1,19 @@
 body {
   background-color: #fdf6e3;
 }
+
 header, footer {
   font-size: 1.5rem;
 }
+
 ul > nav {
   font-family: sans-serif;
 }
+
 .logo {
   text-transform: uppercase;
 }
+
 .wrapper {
   background-color: #eee8d5;
 }
@@ -29,6 +33,7 @@ ul > nav {
 a:not(.no-highlight) {
   background-color: #719e07;
   }
+
 [rel="external"] {
   background-color: #719e07;
 }

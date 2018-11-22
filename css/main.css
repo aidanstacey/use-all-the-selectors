@@ -46,14 +46,14 @@ ol > li:last-of-type {
   color: #2aa198;
 }
 
-ol > li::first-line {
+.types ol > li::first-line {
   background-color: #657ba3;
 }
 
-ol > li:nth-last-of-type(4) {
+.types ol > li:nth-last-of-type(4) {
   background-color: #586e75;
 }
 
-ol > li:nth-last-of-type(3) {
+.types ol > li:nth-last-of-type(3) {
   background-color: #d04b16;
 }
